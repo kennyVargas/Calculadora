@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\PrimerWindowsForm\PrimerWindowsForm\bin\Debug\netcoreapp3.1\PrimerWindowsForm.exe
+C:\Users\Lenovo\source\repos\PrimerWindowsForm\PrimerWindowsForm\bin\Debug\netcoreapp3.1\PrimerWindowsForm.deps.json
+C:\Users\Lenovo\source\repos\PrimerWindowsForm\PrimerWindowsForm\bin\Debug\netcoreapp3.1\PrimerWindowsForm.runtimeconfig.json
+C:\Users\Lenovo\source\repos\PrimerWindowsForm\PrimerWindowsForm\bin\Debug\netcoreapp3.1\PrimerWindowsForm.runtimeconfig.dev.json
+C:\Users\Lenovo\source\repos\PrimerWindowsForm\PrimerWindowsForm\bin\Debug\netcoreapp3.1\PrimerWindowsForm.dll
+C:\Users\Lenovo\source\repos\PrimerWindowsForm\PrimerWindowsForm\bin\Debug\netcoreapp3.1\PrimerWindowsForm.pdb
+C:\Users\Lenovo\source\repos\PrimerWindowsForm\PrimerWindowsForm\obj\Debug\netcoreapp3.1\PrimerWindowsForm.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\PrimerWindowsForm\PrimerWindowsForm\obj\Debug\netcoreapp3.1\PrimerWindowsForm.Form1.resources
+C:\Users\Lenovo\source\repos\PrimerWindowsForm\PrimerWindowsForm\obj\Debug\netcoreapp3.1\PrimerWindowsForm.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\PrimerWindowsForm\PrimerWindowsForm\obj\Debug\netcoreapp3.1\PrimerWindowsForm.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\PrimerWindowsForm\PrimerWindowsForm\obj\Debug\netcoreapp3.1\PrimerWindowsForm.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\PrimerWindowsForm\PrimerWindowsForm\obj\Debug\netcoreapp3.1\PrimerWindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\PrimerWindowsForm\PrimerWindowsForm\obj\Debug\netcoreapp3.1\PrimerWindowsForm.dll
+C:\Users\Lenovo\source\repos\PrimerWindowsForm\PrimerWindowsForm\obj\Debug\netcoreapp3.1\PrimerWindowsForm.pdb
+C:\Users\Lenovo\source\repos\PrimerWindowsForm\PrimerWindowsForm\obj\Debug\netcoreapp3.1\PrimerWindowsForm.genruntimeconfig.cache
